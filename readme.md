@@ -39,3 +39,5 @@ git status
 git add .
 git commit -m 'Initial Commit'
 ... create a new repository in github
+git remote add origin https://github.com/omniledger-neil/udemy_completenode_todoapi.git
+git push -u origin master
