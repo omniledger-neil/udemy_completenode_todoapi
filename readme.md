@@ -1,3 +1,7 @@
+# udemy_completenode_todoapi
+# Author: Neil Stackman
+# Date: 2019.03.01
+
 Start off by installing mongodb from ...
 https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.6-signed.msi/download
 
@@ -26,3 +30,12 @@ Check that robomongo is installed correctly by setting up a connection to localh
 ... the default connection to mongoDb
 
 Remember SQL Table/Row/Column = NoSQL Collection/Document/Field
+
+Git Repository
+cd C:\Users\neil\Udemy\Complete_Node\node-todo-api>
+git init
+git status
+... create a .gitignore file with contents 'node_modules/'
+git add .
+git commit -m 'Initial Commit'
+... create a new repository in github
