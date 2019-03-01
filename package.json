@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.2.0-beta1"
+    "bluebird": "^3.5.3",
+    "mongodb": "^3.2.0-beta1",
+    "mongoose": "^5.4.16"
   }
 }
